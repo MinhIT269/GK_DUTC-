@@ -1,0 +1,12 @@
+D:\Winformc#\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe.config
+D:\Winformc#\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.exe
+D:\Winformc#\QuanLiSieuThi\bin\Debug\QuanLiSieuThi.pdb
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.AssemblyReference.cache
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.SuggestedBindingRedirects.cache
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Form1.resources
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.Properties.Resources.resources
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.GenerateResource.cache
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.csproj.CoreCompileInputs.cache
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.exe
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.pdb
+D:\Winformc#\QuanLiSieuThi\obj\Debug\QuanLiSieuThi.DetailForm.resources
